@@ -4,6 +4,10 @@ title: "Publications"
 
 ## Peer revied publications
 
+* Markku Kuismin and Mikko J. Sillanpää. tvsfglasso: time-varying scale-free graphical lasso for network estimation from time-series data. *PLOS Computational Biology*, 21:e1013710, 2025. [https://doi.org/10.1371/journal.pcbi.1013710](https://doi.org/10.1371/journal.pcbi.1013710)
+
+* Aapo. E. Korhonen, Olli Sarala, Tuomas Hautamäki, Markku Kuismin, and Mikko J. Sillanpää. HMFGraph: Novel Bayesian approach for recovering biological networks. *PLOS Computational Biology*, 21:e1013614, 2025. [https://doi.org/10.1371/journal.pcbi.1013614,](https://doi.org/10.1371/journal.pcbi.1013614)
+
 * Tero Lähderanta, Lauri Lovén, Leena Ruha, Teemu Leppänen, Markku Kuismin, Ilkka Launonen, Susanna Pirttikangas,
 Jukka Riekki, and Mikko J. Sillanpää. The intersection of
 location-allocation, partitional clustering and model-based clustering techniques - a review. *Statistical Science*, 2024.
@@ -46,6 +50,10 @@ of Computational and Graphical Statistics, 26:682–694, 2017. [https://doi.org/
 prior and simple extensions for sparse precision matrix estimation. PLOS ONE, 11:e0148171, 2016. [https://doi.org/10.1371/journal.pone.0148171](https://doi.org/10.1371/journal.pone.0148171)
 
 ## Manuscripts
+
+* Olli Sarala, Markku Kuismin, Tuomas Hautamäki, Aapo E. Korhonen and Mikko J. Sillanpää. Bayesian estimation of sparse partial correlation graphs with smooth temporal evolution.
+
+* Tuomas Hautamäki, Aapo E. Korhonen, Olli Sarala, Markku Kuismin and Mikko J. Sillanpää. GHSCM: Efficient maximum a posteriori inference for biological networks with the graphical horseshoe prior.
 
 * Markku Kuismin, Jon Ahdlinder, and Mikko J. Sillanpää. fast network based microbial source tracking method can detect low-level fecal pollution
 
