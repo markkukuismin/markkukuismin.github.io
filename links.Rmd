@@ -20,3 +20,5 @@ title: "Links"
     </a>
     
 * My Web of Science profile: [https://www.webofscience.com/wos/author/record/LJE-7292-2024](https://www.webofscience.com/wos/author/record/LJE-7292-2024)
+
+* Nordstat 2026: [https://markkukuismin.github.io/nordstat_2026/nordstat_2026_presentation](https://markkukuismin.github.io/nordstat_2026/nordstat_2026_presentation)
